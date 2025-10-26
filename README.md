@@ -51,3 +51,12 @@ We're using Haystack for Document Store and build the RAG pipeline and Open AI G
 
 7. **Main Function**
    - Defining the core functionality of the project, where user queries are processed using the pipeline, and responses are sent back to the user.
+
+
+## 📩 User Interface
+
+Welcome message from the chatbot.
+![Graphic User Interface](docs/gui_0.PNG)
+
+We use Chainlit to make the chatbot.
+![Graphic User Interface](docs/gui_1.PNG)
