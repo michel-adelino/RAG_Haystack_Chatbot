@@ -1,24 +1,8 @@
-# Hacktoberfest 2023
+# Haob 2023
 
 <p align="center">
- <img width="100px" src="https://github.com/cabustillo13/RAG_Haystack_Chatbot/blob/main/images/chatbot.svg" align="center" alt="RAG_Haystack_Chatbot" />
- <h2 align="center">Hacktoberfest 2023 Project</h2>
+ <h2 align="center">Haob 2023 Project</h2>
  <p align="center"><b>Haystack RAG pipeline for a chatbot.</b></p>
-
-</p>
-  <p align="center">
-    <a href="https://github.com/cabustillo13/RAG_Haystack_Chatbot/actions/new">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-        <a href="https://github.com/cabustillo13/RAG_Haystack_Chatbot/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/cabustillo13/RAG_Haystack_Chatbot?color=0088ff" />
-    </a>
-    <a href="https://github.com/cabustillo13/RAG_Haystack_Chatbot/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/cabustillo13/RAG_Haystack_Chatbot?color=0088ff" />
-    </a>
-    <br />
-    <p align="center">
-  </p>
 </p>
 
 ## ⚙️ Set up
@@ -67,16 +51,3 @@ We're using Haystack for Document Store and build the RAG pipeline and Open AI G
 
 7. **Main Function**
    - Defining the core functionality of the project, where user queries are processed using the pipeline, and responses are sent back to the user.
-
-## 📩 User Interface
-
-Welcome message from the chatbot.
-![Graphic User Interface](docs/gui_0.PNG)
-
-We use Chainlit to make the chatbot.
-![Graphic User Interface](docs/gui_1.PNG)
-
-## 😎 Team members
-
-- Linkedin: [Monica Regina da Silva](https://www.linkedin.com/in/monicasil/), [Carlos Bustillo](https://www.linkedin.com/in/carlos-bustillo/)
-- Github: [MonicaRSilva](https://github.com/MonicaRSilva),[cabustillo13](https://github.com/cabustillo13)
